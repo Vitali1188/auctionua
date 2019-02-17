@@ -1,1 +1,22 @@
 
+.auto-buy-user-data {
+  margin: 0;
+  border: 1px solid #FF592C;
+  padding: 3px 0;
+  color: #FF592C;
+  font-size: 16px;
+  border-left: 0;
+  border-right: 0;
+  font-family: Tahoma, Geneva, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  }
+
+.favorite-rate {
+  margin-top: 10px;
+  height: 44px;
+  }
+
+.auto-buy-font-bold {
+  font-weight: bold;
+  }
